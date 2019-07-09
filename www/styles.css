@@ -1,0 +1,19 @@
+.bar {
+    fill: skyblue;
+}
+
+.viz {
+    display: inline-block;
+}
+
+
+svg .seat.NLD { fill: blue }
+svg .seat.USDP { fill: green }
+svg .seat.Others { fill: red }
+svg .seat.Military { fill: yellow }
+
+.action-button {
+    vertical-align: middle;
+}
+
+
